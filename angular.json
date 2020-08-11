@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "nikhil-portal"
+    }
+  },
+  "defaultProject": "nikhil-portal",
+  "cli": {
+    "analytics": false
+  }
 }
